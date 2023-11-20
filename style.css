@@ -1,0 +1,21 @@
+.box {
+    border: 1px solid rgb(18, 124, 112);
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(18, 160, 89);
+}
+
+.boxContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+} 
+
+body{
+    background-color: aqua;
+}
